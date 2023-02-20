@@ -25,4 +25,6 @@ Název dne, Číslo dne, Název měsíce, rok
 Zobrazte aktuální čas v milisekundách
 
 ### 6
-Spočítejte počet dnů mezi dvěma daty. Obě data zadá uživatel
+Vytvořte funkci calcDays. Funkce bude vracet počet dnů mezi dvěma daty. 
+
+Obě data zadá uživatel
