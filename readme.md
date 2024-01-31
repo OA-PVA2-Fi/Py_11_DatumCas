@@ -39,6 +39,7 @@ Vytvoř program na prodej ubytování v rámci malého hotelu. Ceny ubytování 
 | 1. 6. 2025 - 31. 8. 2025 | 3500 Kč | 
 | 1. 9. 2025 - 22. 12. 2025 | 2500 Kč |
 | 23. 12. 2025 - 2. 1. 2026 | 4200 Kč |
+
 Z důvodu rekonstrukce bude hotel v únoru a březnu uzavřen.
 
 Tvůj program se nejprve zeptá uživatele na datum a počet osob, pro které uživatel chce ubytování koupit. Uživatel zadá datum ve středoevropském formátu. Převeď řetězec zadaný uživatelem na datum pomocí funkce `datetime.strptime()`.
