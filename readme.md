@@ -9,8 +9,8 @@ Zobrazte uživateli:
 * Aktuální datum dle vzoru: `Rok-Měsíc-Den`
 * Aktuální datum dle vzoru: `YYYY-MM-DD`
 * Aktuální čas ve tvaru `Hodiny:Minuty:Sekundy`
-* Aktuální Datum a čas dle vzoru: 2021-11-25 14:03:15
-* Aktuální datum a čas dle české normy. Vzor: 14. 12. 2024 13:02
+* Aktuální Datum a čas dle vzoru: `2021-11-25 14:03:15`
+* Aktuální datum a čas dle české normy. `Vzor: 14. 12. 2024 13:02`
 
 ### 2. Výpočet s časem
 Vypočtěte a zobrazte uživateli:
@@ -24,7 +24,8 @@ Vypočtěte a zobrazte uživateli:
 
 
 ### 3. Lokalizované datum
-Zobrazte pro libovolné datum výstup ve tvaru:
+Zobrazte pro libovolné datum výstup ve tvaru: 
+
 Název dne, Číslo dne, Název měsíce, rok
 
 `Pro 20.2.2023` očekávaný výstup: `Monday 20 February 2023`
