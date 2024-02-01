@@ -1,36 +1,44 @@
 # PVA2 - Programování a vývoj aplikací
 ## Cvičení 11: Datum a čas
 
-### 1 
+## Obsah
 
-* Zobazte aktuální datum a čas
-* Zobrazte aktuální datum
-* Zobrazte aktuální čas
+### 1 Aktuální datum a čas
 
-### 2
-Vystavujete fakturu. Vypočítejte a zobrazte datum splatnosti 14 dní od data vystavení. Datum zdanitelného plnění je před pěti dny.
+Zobrazte uživateli:
+* Aktuální datum dle vzoru: `Rok-Měsíc-Den`
+* Aktuální datum dle vzoru: `YYYY-MM-DD`
+* Aktuální čas ve tvaru `Hodiny:Minuty:Sekundy`
+* Aktuální Datum a čas dle vzoru: 2021-11-25 14:03:15
+* Aktuální datum a čas dle české normy. Vzor: 14. 12. 2024 13:02
+
+### 2. Výpočet s časem
+Vypočtěte a zobrazte uživateli:
+* Aktuální datum
+* Zítřejší datum
+* První den následujícího měsíce
+* Poslední den následujícího měsíce
+* Včerejší datum
+* Datum splatnosti 14 dní od data vystavení
+* Datum zdanitelného plnění před třemi dny
 
 
-### 3
+### 3. Lokalizované datum
 Zobrazte pro libovolné datum výstup ve tvaru:
 Název dne, Číslo dne, Název měsíce, rok
 
 `Pro 20.2.2023` očekávaný výstup: `Monday 20 February 2023`
 
-### 4
-* K aktuálnímu času přičtěte 6 dní a 3 hodin
-* K specifickému datu přičtěte 12 dní a 6 hodin
+### 4 Délka trvání události
+Vytvořte funkci, která přijímá dvě data a časy a vrací délku trvání mezi nimi ve formě přehledného textu, například `3 dny, 4 hodiny a 30 minut`.
 
-### 5
-Zobrazte aktuální čas v milisekundách
+### 5 Události v budoucnosti 
+Vytvořte funkci, která vytvoří seznam následujících 5 událostí, které se budou konat každý měsíc ve stejný den a čas jako aktuální datum.
 
-### 6
-Vytvořte funkci calcDays. Funkce bude vracet počet dnů mezi dvěma daty. 
+### 6 Relativní čas
+Formátování relativního času: Vytvořte kód, který přijme časový údaj a vypíše ho ve formátu relativního času, například `před 5 minutami`, `před 2 dny`, atd.
 
-Obě data zadá uživatel
-
-### 7
-Prodej ubytování
+### 7 Prodej ubytování
 Vytvoř program na prodej ubytování v rámci malého hotelu. Ceny ubytování jsou v tabulce níže.
 
 | Datum | Cena |
