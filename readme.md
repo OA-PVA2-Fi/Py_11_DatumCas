@@ -5,12 +5,12 @@
 
 ### 1 Aktuální datum a čas
 
-Zobrazte uživateli:
-* Aktuální datum dle vzoru: `Rok Měsíc. Den.` např. `2024 12. 24.`
-* Aktuální datum dle vzoru: `YYYY-MM-DD`
-* Aktuální čas ve tvaru `Hodiny:Minuty:Sekundy`
-* Aktuální Datum a čas dle vzoru: `2021-11-25 14:03:15`
-* Aktuální datum a čas dle české normy. `Vzor: 14. 12. 2024 13:02`
+Zobrazte uživateli **aktuální** datum/čas dle vzoru:
+* `Rok Měsíc. Den.` např. `2024 12. 24.`
+* `YYYY-MM/DD` např. `2024-12/24`
+* `Hodiny:Minuty:Sekundy` např. `14:20:15`
+* `2024-12-24 14:03:15`
+* dle české normy vzor:`14. 12. 2024 13:02`
 
 ### 2. Výpočet s časem
 Vypočtěte a zobrazte uživateli:
