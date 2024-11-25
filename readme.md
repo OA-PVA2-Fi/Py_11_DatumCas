@@ -6,7 +6,7 @@
 ### 1 Aktuální datum a čas
 
 Zobrazte uživateli:
-* Aktuální datum dle vzoru: `Rok-Měsíc-Den`
+* Aktuální datum dle vzoru: `Rok Měsíc. Den.` např. `2024 12. 24.`
 * Aktuální datum dle vzoru: `YYYY-MM-DD`
 * Aktuální čas ve tvaru `Hodiny:Minuty:Sekundy`
 * Aktuální Datum a čas dle vzoru: `2021-11-25 14:03:15`
